@@ -1,7 +1,5 @@
-### Hi there 👋
 [![hits](https://hits.deltapapa.io/github/Daniel-israelov/hits-badge.svg)](https://hits.deltapapa.io)
-
-
+### Hi there 👋
 <!--
 **Daniel-israelov/Daniel-israelov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
