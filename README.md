@@ -10,4 +10,7 @@ From Tel-Aviv, Israel.
 - 🔭 I’m currently working on my B.Sc degree.
 - 🌱 I’m currently learning Computer science.
 - 💬 Ask me about ...
-- 📫 How to reach me: @Daniel-israelov (GitHub)
+- 📫 How to reach me: @Daniel-israelov (GitHub)  
+
+  
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-israelov)](https://github.com/anuraghazra/github-readme-stats)
