@@ -12,6 +12,6 @@ From Tel-Aviv, Israel.
 - 🌱 I’m currently learning Computer science.
 - 📫 How to reach me:  
   
-     [<img align="left" alt="Daniel-isrealov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/daniel-israelov-programmer/) 
-[<img align="left" alt="Daniel-isrealov | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=1741592393)
-[<img align="left" alt="Daniel-isrealov | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/daniel_14.8/)
+     [<img align="left" alt="Daniel-isrealov | LinkedIn" width="32px" src="https://i.imgur.com/LdUCwc6.png" />](https://www.linkedin.com/in/daniel-israelov-programmer/) 
+[<img align="left" alt="Daniel-isrealov | Facebook" width="32px" src="https://i.imgur.com/nIiaG46.png" />](https://www.facebook.com/profile.php?id=1741592393)
+[<img align="left" alt="Daniel-isrealov | Instagram" width="32px" src="https://i.imgur.com/OWdUupI.png" />](https://www.instagram.com/daniel_14.8/)
