@@ -10,7 +10,6 @@ From Tel-Aviv, Israel.
 
 - 🔭 I’m currently working on my B.Sc degree.
 - 🌱 I’m currently learning Computer science.
-- 💬 Ask me about ...
 - 📫 How to reach me:  
   
      [<img align="left" alt="Daniel-isrealov | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/daniel-israelov-programmer/)
