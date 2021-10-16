@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=Daniel-israelov)
-### Hi there, I'm Daniel 👋
+# Hi there, I'm Daniel 👋
+### 29 years old Computer science student. From Tel-Aviv, Israel.
 ---
-29 years old Computer science student.
-From Tel-Aviv, Israel.
+
 
 - 🔭 I’m currently working on my B.Sc degree in Computer science.
 - 🌱 I’m currently learning:  
