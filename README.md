@@ -14,7 +14,5 @@ From Tel-Aviv, Israel.
 [<img align="left" alt="Daniel-isrealov | Gmail" width="32px" src="https://i.imgur.com/BzG8QoD.png" />](mailto:svhrkz@gmail.com) <br/><br/>
 ---
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-israelov&show_icons=true&theme=dark)](https://github.com/Daniel-israelov/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-israelov&layout=compact&theme=dark)](https://github.com/Daniel-israelov/github-readme-stats)  
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-israelov&show_icons=true&theme=dark)](https://github.com/Daniel-israelov/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-israelov&layout=compact&theme=dark&card_width=410)](https://github.com/Daniel-israelov/github-readme-stats)
