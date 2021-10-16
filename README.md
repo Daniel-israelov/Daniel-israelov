@@ -11,6 +11,4 @@ From Tel-Aviv, Israel.
 - 🔭 I’m currently working on my B.Sc degree.
 - 🌱 I’m currently learning Computer science.
 - 💬 Ask me about ...
-- 📫 How to reach me: @Daniel-israelov (GitHub)  
-
-(https://icon-library.com/icon/facebook-transparent-icon-9.html.html>Facebook Transparent Icon # 312491)FaceBook
+- 📫 How to reach me: @Daniel-israelov (GitHub)
