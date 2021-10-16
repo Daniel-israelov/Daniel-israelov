@@ -19,5 +19,5 @@ From Tel-Aviv, Israel.
 [<img align="left" alt="Daniel-isrealov | Whatsapp" width="32px" src="https://i.imgur.com/CUInNXM.png" />](https://wa.me/972543104547)<br/><br/>
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-israelov&show_icons=true&theme=dark)](https://github.com/Daniel-israelov/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-israelov&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/Daniel-israelov/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-israelov&layout=compact&theme=dark&langs_count=10)](https://github.com/Daniel-israelov/github-readme-stats)
