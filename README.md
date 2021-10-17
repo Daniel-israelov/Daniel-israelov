@@ -17,6 +17,19 @@
 [<img align="left" alt="Daniel-isrealov | Instagram" width="32px" src="https://i.imgur.com/OWdUupI.png" />](https://www.instagram.com/daniel_14.8/)
 [<img align="left" alt="Daniel-isrealov | Gmail" width="32px" src="https://i.imgur.com/BzG8QoD.png" />](mailto:svhrkz@gmail.com)
 [<img align="left" alt="Daniel-isrealov | Whatsapp" width="32px" src="https://i.imgur.com/CUInNXM.png" />](https://wa.me/972543104547)<br/><br/>
+- 💻 Languages & Tools:  
+
+    <img height="32" width="32" src="https://img.icons8.com/color/50/000000/c-programming.png"/>
+    <img heigth="32" width="32" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
+    <img height="32" width="32" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+    <img height="32" width="32" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+    <img height="32" width="32" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
+    <img height="32" width="32" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
+    <img height="32" width="32" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
+    <img height="32" width="32" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+    <img height="32" width="32" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
+    <img height="32" width="32" src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+    <img height="32" width="32" src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/>
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-israelov&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/Daniel-israelov/github-readme-stats)
