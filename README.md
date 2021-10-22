@@ -9,7 +9,7 @@
   - Android app development.
   - Software engineering.
   - Turing machine.
-  - Date science.
+  - Data science.
 - 📫 How to reach me:  
   
      [<img align="left" alt="Daniel-isrealov | LinkedIn" width="25px" src="https://i.imgur.com/LdUCwc6.png" />](https://www.linkedin.com/in/daniel-israelov-programmer/) 
