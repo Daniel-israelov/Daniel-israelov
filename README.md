@@ -30,6 +30,8 @@
     <img height="32" width="32" src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/>
     <img height="35" width="35" src="https://www.saashub.com/images/app/service_logos/53/41b953e17a8a/large.png?1560066034"/>
     <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg"/>
+    <img height="32" width="132" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Metasploit_logo_and_wordmark.png"/>
+    <img height="32" width="32" src="https://scapy.net/assets/img/logo.png"/>"
     <img width="132" src="https://www.maltego.com/img/maltego-logo/Maltego-Logo-Horizontal-White.png"/>
 ---
 
