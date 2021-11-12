@@ -1,14 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=Daniel-israelov)
 # Hi there, I'm Daniel 👋
-### 29 years old Computer science student. From Tel-Aviv, Israel.
+### 29 Years old, 3<sup>rd</sup> year Computer science student. From Tel-Aviv, Israel.
 ---
-
-
 - 🔭 I’m currently working on my B.Sc degree in Computer science.
 - 🌱 I’m currently learning:  
   - Android app development.
   - Software engineering.
-  - Turing machine.
+  - Turing machines.
   - Data science.
 - 📫 How to reach me:  
   
@@ -30,6 +28,9 @@
     <img height="32" width="32" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
     <img height="32" width="32" src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
     <img height="32" width="32" src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/>
+    <img height="35" width="35" src="https://www.saashub.com/images/app/service_logos/53/41b953e17a8a/large.png?1560066034"/>
+    <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg"/>
+    <img width="132" src="https://www.maltego.com/img/maltego-logo/Maltego-Logo-Horizontal-White.png"/>
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-israelov&include_all_commits=true&show_icons=true&theme=dark)](https://github.com/Daniel-israelov/github-readme-stats)
