@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning:  
   - Android app development.
   - Software engineering.
-  - Turing machines.
+  - Computabilty & complexity of Algorithms.
   - Data science.
 - 📫 How to reach me:  
   
