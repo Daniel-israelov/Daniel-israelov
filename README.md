@@ -1,5 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Daniel-israelov)
-# Hi there, I'm Daniel 👋
+# Welcome to my GitHub!
+### I'm Daniel.
 ### 29 Years old, 3<sup>rd</sup> year Computer science student. From Tel-Aviv, Israel.
 ---
 - 🔭 I’m currently working on my B.Sc degree in Computer science.
@@ -8,13 +9,14 @@
   - Software engineering.
   - Computabilty & complexity of Algorithms.
   - Data science.
-- 📫 How to reach me:  
+- 📫 Get in touch:  
   
-     [<img align="left" alt="Daniel-isrealov | LinkedIn" width="25px" src="https://i.imgur.com/LdUCwc6.png" />](https://www.linkedin.com/in/daniel-israelov-programmer/) 
+    [<img align="left" alt="Daniel-isrealov | LinkedIn" width="25px" src="https://i.imgur.com/LdUCwc6.png" />](https://www.linkedin.com/in/daniel-israelov-programmer/) 
 [<img align="left" alt="Daniel-isrealov | Facebook" width="25px" src="https://i.imgur.com/nIiaG46.png" />](https://www.facebook.com/profile.php?id=1741592393)
 [<img align="left" alt="Daniel-isrealov | Instagram" width="25px" src="https://i.imgur.com/OWdUupI.png" />](https://www.instagram.com/daniel_14.8/)
 [<img align="left" alt="Daniel-isrealov | Gmail" width="25px" src="https://i.imgur.com/BzG8QoD.png" />](mailto:svhrkz@gmail.com)
-[<img align="left" alt="Daniel-isrealov | Whatsapp" width="25px" src="https://i.imgur.com/CUInNXM.png" />](https://wa.me/972543104547)  .
+[<img align="left" alt="Daniel-isrealov | Whatsapp" width="25px" src="https://i.imgur.com/CUInNXM.png" />](https://wa.me/972543104547)</br>
+
 - 💻 Languages & Tools:  
 
     <img height="32" width="32" src="https://img.icons8.com/color/50/000000/c-programming.png"/>
