@@ -30,6 +30,7 @@
     <img height="32" width="32" src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
     <img height="32" width="32" src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/>
     <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg"/>
+    <img height="32" width="32" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
 
 ---
 
