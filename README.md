@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=Daniel-israelov)
 # Welcome to my GitHub!
-### 3<sup>rd</sup> year Computer science student. From Tel-Aviv.
+### I'm a 3<sup>rd</sup> year Computer science student.<br>
+#### Find out more about me in my [Portfolio](https://danielisraelov.netlify.app/)
 ---
 - 🌱 I’m currently learning:</br>
   - GIS.
