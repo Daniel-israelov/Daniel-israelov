@@ -10,11 +10,10 @@
   - HTML, CSS, JS.
 - 📫 Get in touch:  
   
-    [<img align="left" alt="Daniel-isrealov | Whatsapp" width="25px" src="https://i.imgur.com/CUInNXM.png" />](https://wa.me/972543104547)
-[<img align="left" alt="Daniel-isrealov | Gmail" width="25px" src="https://i.imgur.com/BzG8QoD.png" />](mailto:svhrkz@gmail.com)
-[<img align="left" alt="Daniel-isrealov | LinkedIn" width="25px" src="https://i.imgur.com/LdUCwc6.png" />](https://www.linkedin.com/in/daniel-israelov-programmer/) 
-[<img align="left" alt="Daniel-isrealov | Facebook" width="25px" src="https://i.imgur.com/nIiaG46.png" />](https://www.facebook.com/profile.php?id=1741592393)
-[<img align="left" alt="Daniel-isrealov | Instagram" width="25px" src="https://i.imgur.com/OWdUupI.png" />](https://www.instagram.com/daniel_14.8/)
+    [<img align="left" alt="portfolio icon" width="32px" src="https://cdn-icons-png.flaticon.com/512/6755/6755935.png"/>](https://danielisraelov.netlify.app/)
+[<img align="left" alt="Daniel-isrealov | Whatsapp" width="32px" src="https://i.imgur.com/CUInNXM.png" />](https://wa.me/972543104547)
+[<img align="left" alt="Daniel-isrealov | Gmail" width="32px" src="https://i.imgur.com/BzG8QoD.png" />](mailto:svhrkz@gmail.com)
+[<img align="left" alt="Daniel-isrealov | LinkedIn" width="32px" src="https://i.imgur.com/LdUCwc6.png" />](https://www.linkedin.com/in/daniel-israelov-programmer/) 
 </br>
 
 - 💻 Languages & Tools:  
@@ -27,10 +26,9 @@
     <img height="32" width="32" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
     <img height="32" width="32" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
     <img height="32" width="32" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+    <img height="32" width="32" src="https://img.icons8.com/fluency/344/4a90e2/jupyter.png"/>
     <img height="32" width="32" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
-    <img height="32" width="32" src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
     <img height="32" width="32" src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/>
-    <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg"/>
     <img height="32" width="32" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
 
 ---
