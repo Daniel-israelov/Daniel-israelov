@@ -21,6 +21,7 @@
     <img width="35" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
     <img width="35" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
     <img width="35" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+    <img width="35" src="https://img.icons8.com/color/344/javascript--v1.png"/>
 
 - 💻 Tools:<br><br>
     <img width="35" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
