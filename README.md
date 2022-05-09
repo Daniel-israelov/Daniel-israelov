@@ -30,6 +30,7 @@
     <img width="35" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
     <img width="35" src="https://img.icons8.com/color/344/26e07f/android-studio--v3.png"/>
     <img width="35" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
+    <img width="35" src="https://img.icons8.com/stickers/344/selenium-test-automation.png"/>
 
 ---
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Daniel-israelov&theme=dark&show_icons=true&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-israelov&theme=dark&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
