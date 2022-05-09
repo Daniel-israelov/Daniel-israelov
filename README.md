@@ -11,8 +11,7 @@
   - HTML, CSS, JS.
 - 📫 Get in touch:
   
-    [<img align="left" alt="Daniel-isrealov | Whatsapp" width="32px" src="https://i.imgur.com/CUInNXM.png" />](https://wa.me/972543104547)
-[<img align="left" alt="Daniel-isrealov | Gmail" width="32px" src="https://i.imgur.com/BzG8QoD.png" />](mailto:dani.prgrmr@gmail.com)
+    [<img align="left" alt="Daniel-isrealov | Gmail" width="32px" src="https://i.imgur.com/BzG8QoD.png" />](mailto:dani.prgrmr@gmail.com)
 [<img align="left" alt="Daniel-isrealov | LinkedIn" width="32px" src="https://i.imgur.com/LdUCwc6.png" />](https://www.linkedin.com/in/daniel-israelov-programmer/) 
 <br><br>
 
