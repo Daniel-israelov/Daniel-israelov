@@ -33,4 +33,4 @@
     <img width="35" src="https://img.icons8.com/stickers/344/selenium-test-automation.png"/>
 
 ---
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Daniel-israelov&theme=dark&show_icons=true&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-israelov&theme=dark&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Daniel-israelov&theme=dracula&show_icons=true&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-israelov&theme=dracula&langs_count=10&layout=compact&card_width=270)](https://github.com/anuraghazra/github-readme-stats)
