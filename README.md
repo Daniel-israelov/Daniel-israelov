@@ -5,10 +5,8 @@
 #### Find out more about me in my [Portfolio](https://danielisraelov.netlify.app/)
 ---
 - 🌱 I’m currently learning:
-  - GIS.
   - Machine Learning.
   - Web Environment Programming.
-  - HTML, CSS, JS.
 - 📫 Get in touch:
   
     [<img align="left" alt="Daniel-isrealov | Gmail" width="32px" src="https://i.imgur.com/BzG8QoD.png" />](mailto:dani.prgrmr@gmail.com)
@@ -31,6 +29,8 @@
     <img width="35" src="https://img.icons8.com/color/344/26e07f/android-studio--v3.png"/>
     <img width="35" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
     <img width="35" src="https://img.icons8.com/stickers/344/selenium-test-automation.png"/>
+    <img width="35" src="https://img.icons8.com/color/344/html-5--v1.png"/>
+    <img width="35" src="https://img.icons8.com/color/344/css3.png"/>
 
 ---
 <a href="https://github.com/anuraghazra/github-readme-stats">
