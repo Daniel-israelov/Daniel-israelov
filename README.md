@@ -29,6 +29,7 @@
     <img width="35" src="https://img.icons8.com/color/344/26e07f/android-studio--v3.png"/>
     <img width="35" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
     <img width="35" src="https://img.icons8.com/stickers/344/selenium-test-automation.png"/>
+    <img width="35" src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-icon.svg"/>
     <img width="35" src="https://img.icons8.com/color/344/html-5--v1.png"/>
     <img width="35" src="https://img.icons8.com/color/344/css3.png"/>
 
