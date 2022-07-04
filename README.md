@@ -5,8 +5,8 @@
 #### Find out more about me in my [Portfolio](https://danielisraelov.netlify.app/)
 ---
 - 🌱 I’m currently learning:
-  - Machine Learning.
-  - Web Environment Programming.
+  - Reverse Engineering.
+  - Developing Open Source Based Server Side Applications (Spring Boot).
 - 📫 Get in touch:
   
     [<img align="left" alt="Daniel-isrealov | Gmail" width="32px" src="https://i.imgur.com/BzG8QoD.png" />](mailto:dani.prgrmr@gmail.com)
