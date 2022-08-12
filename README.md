@@ -1,7 +1,7 @@
 ![header](https://komarev.com/ghpvc/?username=Daniel-israelov)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Daniel%20Israelov&fontSize=90&animation=fadeIn)
 
-### I'm a 3<sup>rd</sup> year Computer science student.<br>
+### I'm a 3<sup>rd</sup> year Computer science student and a Junior Backend Engineer @ PEER39.<br>
 #### Find out more about me in my [Portfolio](https://danielisraelov.netlify.app/)
 ---
 - 🌱 I’m currently learning:
