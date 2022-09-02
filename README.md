@@ -32,6 +32,8 @@
     <img width="35" src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-icon.svg"/>
     <img width="35" src="https://img.icons8.com/color/344/html-5--v1.png"/>
     <img width="35" src="https://img.icons8.com/color/344/css3.png"/>
+    <img width="100" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg"/>
+    <img width="35" src="https://img.icons8.com/color/344/postgreesql.png"/>
 
 ---
 <a href="https://github.com/anuraghazra/github-readme-stats">
