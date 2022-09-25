@@ -4,36 +4,40 @@
 ### I'm a 3<sup>rd</sup> year Computer science student and a Junior Backend Engineer @ PEER39.<br>
 #### Find out more about me in my [Portfolio](https://danielisraelov.netlify.app/)
 ---
-- 🌱 I’m currently learning:
+- 🌱 <strong>I’m currently learning:</strong>
   - Reverse Engineering.
   - Developing Open Source Based Server Side Applications (Spring Boot).
-- 📫 Get in touch:
+- 📫 <strong>Get in touch:</strong>
   
     [<img align="left" alt="Daniel-isrealov | Gmail" width="32px" src="https://i.imgur.com/BzG8QoD.png" />](mailto:dani.prgrmr@gmail.com)
 [<img align="left" alt="Daniel-isrealov | LinkedIn" width="32px" src="https://i.imgur.com/LdUCwc6.png" />](https://www.linkedin.com/in/daniel-israelov-programmer/) 
 <br><br>
 
-- 💻 Programming Languages:<br><br>
+- 💻 <strong>Programming Languages:</strong><br><br>
     <img width="35" src="https://img.icons8.com/color/50/000000/c-programming.png"/>
     <img width="35" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
     <img width="35" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
     <img width="35" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
     <img width="35" src="https://img.icons8.com/color/344/javascript--v1.png"/>
 
-- 💻 Tools & IDE's:<br><br>
+- 💻 <strong>IDE's:</strong><br><br>
     <img width="35" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
     <img width="35" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
     <img width="35" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
     <img width="35" src="https://img.icons8.com/fluency/344/4a90e2/jupyter.png"/>
-    <img width="35" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
     <img width="35" src="https://img.icons8.com/color/344/26e07f/android-studio--v3.png"/>
-    <img width="35" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
+    
+- 💻 <strong>Tools & Frameworks:</strong><br><br>
     <img width="35" src="https://img.icons8.com/stickers/344/selenium-test-automation.png"/>
+    <img width="100" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg"/>
     <img width="35" src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-icon.svg"/>
     <img width="35" src="https://img.icons8.com/color/344/html-5--v1.png"/>
     <img width="35" src="https://img.icons8.com/color/344/css3.png"/>
-    <img width="100" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg"/>
+
+- 💻 <strong>Databases:</strong><br><br>
     <img width="35" src="https://img.icons8.com/color/344/postgreesql.png"/>
+    <img width="35" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"/>
+    <img width="35" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
 
 ---
 <a href="https://github.com/anuraghazra/github-readme-stats">
