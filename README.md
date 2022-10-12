@@ -5,7 +5,6 @@
 #### Find out more about me in my [Portfolio](https://danielisraelov.netlify.app/)
 ---
 - 🌱 <strong>I’m currently learning:</strong>
-  - Reverse Engineering.
   - Developing Open Source Based Server Side Applications (Spring Boot).
 - 📫 <strong>Get in touch:</strong>
   
