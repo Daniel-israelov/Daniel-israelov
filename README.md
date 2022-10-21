@@ -5,7 +5,7 @@
 #### Find out more about me in my [Portfolio](https://danielisraelov.netlify.app/)
 ---
 - 🌱 <strong>I’m currently learning:</strong>
-  - Developing Open Source Based Server Side Applications (Spring Boot).
+  - Developing Server side SpringBoot apps.
 - 📫 <strong>Get in touch:</strong>
   
     [<img align="left" alt="Daniel-isrealov | Gmail" width="32px" src="https://i.imgur.com/BzG8QoD.png" />](mailto:dani.prgrmr@gmail.com)
