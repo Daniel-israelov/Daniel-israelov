@@ -5,7 +5,7 @@
 #### Find out more about me in my [Portfolio](https://danielisraelov.netlify.app/)
 ---
 - 🌱 <strong>I’m currently learning:</strong>
-  - Developing Back-end applications using in Spring boot.
+  - Developing Back-end applications in Spring boot.
 - 📫 <strong>Get in touch:</strong>
   
     [<img align="left" alt="Daniel-isrealov | Gmail" width="32px" src="https://i.imgur.com/BzG8QoD.png" />](mailto:dani.prgrmr@gmail.com)
