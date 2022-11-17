@@ -27,10 +27,13 @@
     
 - 💻 <strong>Tools & Frameworks:</strong><br><br>
     <img width="35" src="https://img.icons8.com/stickers/344/selenium-test-automation.png"/>
-    <img width="100" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg"/>
-    <img width="35" src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-icon.svg"/>
     <img width="35" src="https://img.icons8.com/color/344/html-5--v1.png"/>
     <img width="35" src="https://img.icons8.com/color/344/css3.png"/>
+    <img width="35" src="https://img.icons8.com/color/512/jenkins.png"/>
+    <img width="35" src="https://img.icons8.com/color/512/spring-logo.png"/>
+    <img width="35" src="https://img.icons8.com/fluency/512/docker.png"/>
+    <img width="35" src="https://img.icons8.com/color/512/kubernetes.png"/>
+    <img width="35" src="https://cdn.freebiesupply.com/logos/large/2x/datagrip-icon-logo-png-transparent.png"/>
 
 - 💻 <strong>Databases:</strong><br><br>
     <img width="35" src="https://img.icons8.com/color/344/postgreesql.png"/>
