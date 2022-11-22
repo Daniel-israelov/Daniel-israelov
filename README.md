@@ -24,6 +24,7 @@
     <img width="35" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
     <img width="35" src="https://img.icons8.com/fluency/344/4a90e2/jupyter.png"/>
     <img width="35" src="https://img.icons8.com/color/344/26e07f/android-studio--v3.png"/>
+    <img width="35" src="https://cdn.freebiesupply.com/logos/large/2x/datagrip-icon-logo-png-transparent.png"/>
     
 - 💻 <strong>Tools & Frameworks:</strong><br><br>
     <img width="35" src="https://img.icons8.com/stickers/344/selenium-test-automation.png"/>
@@ -33,7 +34,6 @@
     <img width="35" src="https://img.icons8.com/color/512/spring-logo.png"/>
     <img width="35" src="https://img.icons8.com/fluency/512/docker.png"/>
     <img width="35" src="https://img.icons8.com/color/512/kubernetes.png"/>
-    <img width="35" src="https://cdn.freebiesupply.com/logos/large/2x/datagrip-icon-logo-png-transparent.png"/>
 
 - 💻 <strong>Databases:</strong><br><br>
     <img width="35" src="https://img.icons8.com/color/344/postgreesql.png"/>
