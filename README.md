@@ -41,10 +41,12 @@
     <img width="35" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
 
 ---
-## <img  width="35" src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"><b> Github Stats </b>
+
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Daniel-israelov&theme=dracula&show_icons=true&include_all_commits=false" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-israelov&theme=dracula&langs_count=10&layout=compact" />
 </a>
+  </div>
