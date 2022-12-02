@@ -34,6 +34,7 @@
     <img width="35" src="https://img.icons8.com/color/512/spring-logo.png"/>
     <img width="35" src="https://img.icons8.com/fluency/512/docker.png"/>
     <img width="35" src="https://img.icons8.com/color/512/kubernetes.png"/>
+    <img width="35" src="https://img.icons8.com/color/512/git.png"/>
 
 - 💻 <strong>Databases:</strong><br><br>
     <img width="35" src="https://img.icons8.com/color/344/postgreesql.png"/>
