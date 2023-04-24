@@ -19,7 +19,7 @@
     <img width="35" src="https://img.icons8.com/color/344/javascript--v1.png"/>
 
 - 💻 <strong>IDEs:</strong><br><br>
-    <img width="35" src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
+    <img width="35" src="https://img.icons8.com/color/256/visual-studio--v2.png"/>
     <img width="35" src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
     <img width="35" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
     <img width="35" src="https://img.icons8.com/fluency/344/4a90e2/jupyter.png"/>
