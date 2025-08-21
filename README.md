@@ -12,11 +12,10 @@
 <br><br>
 
 - 💻 <strong>Programming Languages:</strong><br><br>
+    <img width="35" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
     <img width="35" src="https://img.icons8.com/color/50/000000/c-programming.png"/>
     <img width="35" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>
-    <img width="35" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
     <img width="35" src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-    <img width="35" src="https://img.icons8.com/color/344/javascript--v1.png"/>
 
 - 💻 <strong>IDEs:</strong><br><br>
     <img width="35" src="https://img.icons8.com/color/256/visual-studio--v2.png"/>
@@ -27,6 +26,11 @@
     <img width="35" src="https://cdn.freebiesupply.com/logos/large/2x/datagrip-icon-logo-png-transparent.png"/>
     
 - 💻 <strong>Tools & Frameworks:</strong><br><br>
+    <img width="35" src="https://img.icons8.com/?size=100&id=Ei4ZhVQvIMHE&format=png&color=000000"/>
+    <img width="35" src="https://img.icons8.com/?size=100&id=6WbypxLnLs37&format=png&color=000000"/>
+    <img width="35" src="https://img.icons8.com/?size=100&id=DzRpY3nqSsVq&format=png&color=000000"/>
+    <img width="35" src="https://img.icons8.com/?size=100&id=kjmeS4WFp36a&format=png&color=000000"/>
+    <img width="35" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000"/>
     <img width="35" src="https://img.icons8.com/stickers/344/selenium-test-automation.png"/>
     <img width="35" src="https://img.icons8.com/color/344/html-5--v1.png"/>
     <img width="35" src="https://img.icons8.com/color/344/css3.png"/>
